@@ -97,16 +97,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b>
-💬Jane is sharing with the team and her client what she suspects to be the problem.💬
+😄John has resolved the problem and will now be closing the ticket.😄
 </b>
  
-![image](https://github.com/user-attachments/assets/f52fcc6a-c96c-4e72-936a-09f4828c3578)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<b>
-😄Jane has found the cause of the issue, resolved it, and closed the ticket.😄
-</b>
- 
-![Screenshot 2025-03-11 175836](https://github.com/user-attachments/assets/2f47eeec-f805-4cea-aaa1-eb4a0a707816)
+![image](https://github.com/user-attachments/assets/1074f2cb-8a2a-4809-9b9d-f0d17cdeacb5)
 
