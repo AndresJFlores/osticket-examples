@@ -24,6 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+![Screenshot 2025-03-11 175836](https://github.com/user-attachments/assets/696e6a83-cf6d-4a7b-8df2-44ff2c18e757)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
