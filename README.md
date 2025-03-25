@@ -36,6 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
  ![image](https://github.com/user-attachments/assets/7bbae41e-6e52-4ad6-8016-d61d9f099a6c)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<b>
 ⚡Team member John Doe will be identifying the severity of the problem and assigning the ticket to appropriate team members.⚡
 </b>
  
@@ -74,21 +75,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 📫The team has recieved a ticket.📫
 </b>
 
- ![image](https://github.com/user-attachments/assets/7bbae41e-6e52-4ad6-8016-d61d9f099a6c)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-⚡Team member John Doe will be identifying the severity of the problem and assigning the ticket to appropriate team members.⚡
-</b>
- 
-![image](https://github.com/user-attachments/assets/28433211-b5f5-426b-a84d-7f8f75bd3810)
+ ![image](https://github.com/user-attachments/assets/5a88ca02-a6bd-4058-a5c2-d8a7e03b62b4)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b>
-⚡Jane Doe, part of the online banking team, will be claiming and working the ticket to resolution.⚡
+⚡Team member John Doe has identified the severity of the problem and has decided to assign the ticket to himself.⚡
 </b>
  
-![image](https://github.com/user-attachments/assets/260e660f-b39c-4748-9666-d00a1c389306)
+![image](https://github.com/user-attachments/assets/c97f4e09-b234-4a8e-b3dc-23444ceb158f)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<b>
+💬John has contacted the customer and is troubleshooting the affected systems.💬
+</b>
+ 
+ ![image](https://github.com/user-attachments/assets/2e5a139d-3b15-45c7-9554-9fc35b6150e6)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
